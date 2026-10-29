@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640" role="img" aria-label="B£n Ó luÓng Tiki Money">
+  <rect width="1100" height="640" rx="28" fill="#F6F4EE"/>
+  <text x="48" y="58" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="28" font-weight="650">LuÓng chính cça Tiki Money</text>
+  <text x="48" y="88" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="15">SÕ chÉ ghi khi ng°Ýi dùng xác nh­n. SÑ trong câu tr£ lÝi l¥y të SQLite, không l¥y të mô hình.</text>
+
+  <g font-family="Segoe UI, Inter, sans-serif">
+    <rect x="48" y="124" width="220" height="92" rx="18" fill="#FFFFFF" stroke="#E4E0D6"/>
+    <text x="70" y="160" fill="#918E85" font-size="12" font-weight="650" letter-spacing="1">CÁCH 1</text>
+    <text x="70" y="188" fill="#1D1C19" font-size="18" font-weight="650">Gõ mÙt câu</text>
+
+    <rect x="292" y="124" width="220" height="92" rx="18" fill="#FFFFFF" stroke="#E4E0D6"/>
+    <text x="314" y="160" fill="#918E85" font-size="12" font-weight="650" letter-spacing="1">CÁCH 2</text>
+    <text x="314" y="188" fill="#1D1C19" font-size="18" font-weight="650">Nói vào micro</text>
+
+    <rect x="536" y="124" width="220" height="92" rx="18" fill="#FFFFFF" stroke="#E4E0D6"/>
+    <text x="558" y="160" fill="#918E85" font-size="12" font-weight="650" letter-spacing="1">CÁCH 3</text>
+    <text x="558" y="188" fill="#1D1C19" font-size="18" font-weight="650">Nút ghi nhanh</text>
+
+    <rect x="780" y="124" width="272" height="92" rx="18" fill="#141310"/>
+    <text x="802" y="160" fill="rgba(247,245,239,0.55)" font-size="12" font-weight="650" letter-spacing="1">ÍCH</text>
+    <text x="802" y="188" fill="#F7F5EF" font-size="18" font-weight="650">SÕ trên máy</text>
+  </g>
+
+  <path d="M158 216 V248 H402 V216" fill="none" stroke="#C15F3C" stroke-width="2"/>
+  <path d="M402 248 V276" fill="none" stroke="#C15F3C" stroke-width="2"/>
+  <polygon points="394,276 410,276 402,288" fill="#C15F3C"/>
+
+  <rect x="250" y="292" width="304" height="64" rx="16" fill="#C15F3C"/>
+  <text x="402" y="330" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Inter, sans-serif" font-size="16" font-weight="650">Gemini phân lo¡i ý Ënh</text>
+
+  <path d="M402 356 V390" fill="none" stroke="#1D1C19" stroke-width="1.5" opacity="0.35"/>
+  <path d="M160 390 H880" fill="none" stroke="#1D1C19" stroke-width="1.5" opacity="0.35"/>
+  <path d="M160 390 V414" fill="none" stroke="#1D1C19" stroke-width="1.5" opacity="0.25"/>
+  <path d="M520 390 V414" fill="none" stroke="#1D1C19" stroke-width="1.5" opacity="0.25"/>
+  <path d="M880 390 V414" fill="none" stroke="#1D1C19" stroke-width="1.5" opacity="0.25"/>
+
+  <g font-family="Segoe UI, Inter, sans-serif">
+    <rect x="48" y="418" width="224" height="168" rx="18" fill="#FFFFFF" stroke="#E4E0D6"/>
+    <text x="70" y="450" fill="#C15F3C" font-size="13" font-weight="700">record</text>
+    <text x="70" y="478" fill="#1D1C19" font-size="16" font-weight="650">Á xu¥t kho£n</text>
+    <text x="70" y="506" fill="#5E5C55" font-size="13">Ch°a có dòng trong sÕ.</text>
+    <text x="70" y="528" fill="#5E5C55" font-size="13">Tñ xác nh­n sau 5 giây,</text>
+    <text x="70" y="550" fill="#5E5C55" font-size="13">ho·c b¥m sÛm h¡n.</text>
+
+    <rect x="408" y="418" width="224" height="168" rx="18" fill="#FFFFFF" stroke="#E4E0D6"/>
+    <text x="430" y="450" fill="#2E6F53" font-size="13" font-weight="700">query</text>
+    <text x="430" y="478" fill="#1D1C19" font-size="16" font-weight="650">HÏi sÑ ã ghi</text>
+    <text x="430" y="506" fill="#5E5C55" font-size="13">Mô hình chÉ chÍn kho£ng</text>
+    <text x="430" y="528" fill="#5E5C55" font-size="13">ngày. App cÙng b£ng tx</text>
+    <text x="430" y="550" fill="#5E5C55" font-size="13">rÓi nói câu có sÑ.</text>
+
+    <rect x="768" y="418" width="284" height="168" rx="18" fill="#FFFFFF" stroke="#E4E0D6"/>
+    <text x="790" y="450" fill="#918E85" font-size="13" font-weight="700">off_topic</text>
+    <text x="790" y="478" fill="#1D1C19" font-size="16" font-weight="650">Ngoài sÕ</text>
+    <text x="790" y="506" fill="#5E5C55" font-size="13">Tin téc, lÝi khuyên §u t°,</text>
+    <text x="790" y="528" fill="#5E5C55" font-size="13">nã, måc tiêu: app të chÑi.</text>
+    <text x="790" y="550" fill="#5E5C55" font-size="13">Không t¡o kho£n.</text>
+  </g>
+</svg>

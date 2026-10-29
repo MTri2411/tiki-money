@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="780" viewBox="0 0 390 780" role="img" aria-label="SÕ chat khi ch°a có kho£n">
+  <rect width="390" height="780" rx="36" fill="#FAF9F5"/>
+  <text x="24" y="42" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="650">9:41</text>
+
+  <rect x="16" y="64" width="40" height="40" rx="12" fill="none"/>
+  <path d="M24 76 H48 M24 84 H48 M24 92 H40" stroke="#5E5C55" stroke-width="1.8" stroke-linecap="round"/>
+
+  <rect x="118" y="68" width="154" height="34" rx="17" fill="#141310"/>
+  <text x="195" y="90" text-anchor="middle" fill="#F7F5EF" font-family="Segoe UI, Inter, sans-serif" font-size="13" font-weight="600">Thé ba, 27/10</text>
+
+  <circle cx="195" cy="300" r="28" fill="#F1EFE7"/>
+  <path d="M183 296 h16 a6 6 0 0 1 6 6 v8 a6 6 0 0 1 -6 6 h-10 l-6 5 v-5 h-0 a6 6 0 0 1 -6 -6 v-8 a6 6 0 0 1 6 -6 z" fill="none" stroke="#918E85" stroke-width="1.6"/>
+  <text x="195" y="360" text-anchor="middle" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="20" font-weight="650">Ch°a có kho£n nào</text>
+  <text x="195" y="388" text-anchor="middle" fill="#918E85" font-family="Segoe UI, Inter, sans-serif" font-size="14">Gõ ho·c nói mÙt câu, ví då cà phê 30k.</text>
+
+  <rect x="20" y="640" width="128" height="36" rx="18" fill="#FFFFFF" stroke="#E6E2D8"/>
+  <text x="84" y="663" text-anchor="middle" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="13">>Ë Trà sïa 35k</text>
+  <rect x="156" y="640" width="132" height="36" rx="18" fill="#FFFFFF" stroke="#E6E2D8"/>
+  <text x="222" y="663" text-anchor="middle" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="13"><\ C¡m tr°a 55k</text>
+  <rect x="296" y="640" width="120" height="36" rx="18" fill="#FFFFFF" stroke="#E6E2D8"/>
+  <text x="356" y="663" text-anchor="middle" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="13">ý Õ xng</text>
+
+  <rect x="16" y="692" width="358" height="56" rx="18" fill="#FFFFFF" stroke="#E6E2D8"/>
+  <text x="36" y="725" fill="#918E85" font-family="Segoe UI, Inter, sans-serif" font-size="14">Ghi mÙt kho£n chi, ho·c b¥m mic</text>
+  <circle cx="314" cy="720" r="16" fill="none" stroke="#5E5C55" stroke-width="1.6"/>
+  <rect x="306" y="710" width="8" height="14" rx="4" fill="none" stroke="#5E5C55" stroke-width="1.4"/>
+  <path d="M304 722 a10 8 0 0 0 20 0 M314 730 v6" stroke="#5E5C55" stroke-width="1.4" fill="none"/>
+  <circle cx="350" cy="720" r="16" fill="#F1EFE7"/>
+</svg>

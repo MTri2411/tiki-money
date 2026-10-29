@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="780" viewBox="0 0 390 780" role="img" aria-label="Thanh ð?o m? danh sách trong ng?y">
+  <rect width="390" height="780" rx="36" fill="#FAF9F5"/>
+  <rect x="0" y="0" width="390" height="780" rx="36" fill="#1D1C19" opacity="0.28"/>
+  <text x="24" y="42" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="650">9:41</text>
+
+  <rect x="28" y="64" width="334" height="430" rx="28" fill="#141310"/>
+  <text x="48" y="108" fill="#F7F5EF" font-family="Segoe UI, Inter, sans-serif" font-size="20" font-weight="650">Chi ti?u hôm nay</text>
+  <text x="48" y="132" fill="rgba(247,245,239,0.52)" font-family="Segoe UI, Inter, sans-serif" font-size="13">Th? ba, 27/10</text>
+
+  <text x="48" y="178" fill="rgba(247,245,239,0.52)" font-family="Segoe UI, Inter, sans-serif" font-size="13">Thu: </text>
+  <text x="82" y="178" fill="#6CB795" font-family="Segoe UI, Inter, sans-serif" font-size="16" font-weight="650">0</text>
+  <text x="168" y="178" fill="rgba(247,245,239,0.28)" font-family="Segoe UI, Inter, sans-serif" font-size="16">|</text>
+  <text x="188" y="178" fill="rgba(247,245,239,0.52)" font-family="Segoe UI, Inter, sans-serif" font-size="13">Chi: </text>
+  <text x="220" y="178" fill="#E07A6C" font-family="Segoe UI, Inter, sans-serif" font-size="16" font-weight="650">?85K</text>
+  <text x="48" y="206" fill="rgba(247,245,239,0.52)" font-family="Segoe UI, Inter, sans-serif" font-size="13">2 giao d?ch</text>
+
+  <rect x="48" y="228" width="294" height="52" rx="12" fill="rgba(247,245,239,0.06)"/>
+  <text x="64" y="250" fill="#F7F5EF" font-family="Segoe UI, Inter, sans-serif" font-size="14">C? ph?</text>
+  <text x="64" y="268" fill="rgba(247,245,239,0.52)" font-family="Segoe UI, Inter, sans-serif" font-size="12">Ð? u?ng</text>
+  <text x="322" y="258" text-anchor="end" fill="#E07A6C" font-family="Segoe UI, Inter, sans-serif" font-size="14">?30K</text>
+
+  <rect x="48" y="288" width="294" height="52" rx="12" fill="rgba(247,245,239,0.06)"/>
+  <text x="64" y="310" fill="#F7F5EF" font-family="Segoe UI, Inter, sans-serif" font-size="14">C?m tr?a</text>
+  <text x="64" y="328" fill="rgba(247,245,239,0.52)" font-family="Segoe UI, Inter, sans-serif" font-size="12">Ãn u?ng</text>
+  <text x="322" y="318" text-anchor="end" fill="#E07A6C" font-family="Segoe UI, Inter, sans-serif" font-size="14">?55K</text>
+
+  <text x="48" y="430" fill="rgba(247,245,239,0.7)" font-family="Segoe UI, Inter, sans-serif" font-size="13">Chi ti?u 1,2M</text>
+  <text x="48" y="452" fill="rgba(247,245,239,0.7)" font-family="Segoe UI, Inter, sans-serif" font-size="13">D?ng ti?n ra 1,2M</text>
+  <text x="322" y="442" text-anchor="end" fill="#F7F5EF" font-family="Segoe UI, Inter, sans-serif" font-size="13" font-weight="650">Thu g?n</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="780" viewBox="0 0 390 780" role="img" aria-label="Màn ng nh­p">
+  <rect width="390" height="780" rx="36" fill="#FAF9F5"/>
+  <text x="28" y="48" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="650">9:41</text>
+  <text x="32" y="130" fill="#C15F3C" font-family="Segoe UI, Inter, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">TIKI MONEY</text>
+  <text x="32" y="178" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="36" font-weight="650">ng nh­p</text>
+  <text x="32" y="220" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="15">Không b¯t buÙc. G¯n Gmail Ã</text>
+  <text x="32" y="242" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="15">Ënh danh. Tên và £nh l¥y theo Gmail.</text>
+
+  <rect x="32" y="280" width="326" height="48" rx="14" fill="#F1EFE7"/>
+  <rect x="36" y="284" width="159" height="40" rx="12" fill="#FFFFFF"/>
+  <text x="115" y="310" text-anchor="middle" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="650">ng nh­p</text>
+  <text x="276" y="310" text-anchor="middle" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="14">ng ký</text>
+
+  <rect x="32" y="360" width="326" height="56" rx="16" fill="#1D1C19"/>
+  <circle cx="68" cy="388" r="14" fill="#FFFFFF"/>
+  <text x="68" y="393" text-anchor="middle" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="700">G</text>
+  <text x="198" y="394" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="650">ng nh­p b±ng Gmail</text>
+
+  <text x="195" y="700" text-anchor="middle" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="15">Dùng không c§n tài kho£n</text>
+</svg>

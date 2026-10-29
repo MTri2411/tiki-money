@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="780" viewBox="0 0 390 780" role="img" aria-label="Menu bên">
+  <rect width="390" height="780" rx="36" fill="#E7E3D8"/>
+  <rect x="250" y="0" width="140" height="780" fill="#1D1C19" opacity="0.18"/>
+  <rect width="300" height="780" fill="#FAF9F5"/>
+  <text x="24" y="48" fill="#C15F3C" font-family="Segoe UI, Inter, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">TIKI MONEY</text>
+  <text x="268" y="50" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="18">×</text>
+
+  <circle cx="48" cy="100" r="20" fill="#F1EFE7"/>
+  <text x="48" y="106" text-anchor="middle" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="16">B</text>
+  <text x="80" y="96" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="16" font-weight="650">B?n</text>
+  <text x="80" y="116" fill="#918E85" font-family="Segoe UI, Inter, sans-serif" font-size="12">Dùng trên máy này</text>
+  <text x="24" y="156" fill="#5E5C55" font-family="Segoe UI, Inter, sans-serif" font-size="13">Tháng này : </text>
+  <text x="108" y="156" fill="#2E6F53" font-family="Segoe UI, Inter, sans-serif" font-size="13" font-weight="650">+12M</text>
+  <text x="148" y="156" fill="#918E85" font-family="Segoe UI, Inter, sans-serif" font-size="13"> | </text>
+  <text x="168" y="156" fill="#C4473A" font-family="Segoe UI, Inter, sans-serif" font-size="13" font-weight="650">?1,2M</text>
+
+  <text x="24" y="198" fill="#918E85" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="650" letter-spacing="0.6">CHAT THEO NGÀY</text>
+
+  <rect x="16" y="214" width="268" height="64" rx="14" fill="#FFFFFF" stroke="#C15F3C"/>
+  <text x="32" y="240" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="650">Hôm nay, 27/10</text>
+  <text x="32" y="260" fill="#C4473A" font-family="Segoe UI, Inter, sans-serif" font-size="12">?85K · 2 kho?n</text>
+
+  <rect x="16" y="286" width="268" height="64" rx="14" fill="#FFFFFF" stroke="#E6E2D8"/>
+  <text x="32" y="312" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="650">Th? hai, 26/10</text>
+  <text x="32" y="332" fill="#C4473A" font-family="Segoe UI, Inter, sans-serif" font-size="12">?210K · 4 kho?n</text>
+
+  <text x="24" y="560" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14">Qu?n lý danh m?c</text>
+  <text x="24" y="596" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14">G?n Gmail</text>
+  <text x="24" y="632" fill="#1D1C19" font-family="Segoe UI, Inter, sans-serif" font-size="14">N?n sáng</text>
+  <text x="24" y="668" fill="#C4473A" font-family="Segoe UI, Inter, sans-serif" font-size="14">Reset d? li?u</text>
+</svg>
